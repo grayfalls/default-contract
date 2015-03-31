@@ -1,2 +1,0 @@
-# default-contract
-Default contract

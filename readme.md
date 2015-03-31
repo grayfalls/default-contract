@@ -1,4 +1,4 @@
-{{logo}}
+{{ logo }}
 
 {{ business_address }}
 {{ contact_name }}

@@ -9,7 +9,7 @@
 
 ### Summary:
 
-We will always do our best to fulfill your needs and meet your goals. This contract’s purpose is to ensure we both understand the terms of our cooperation and what happens if things go wrong. This plain English contract should hopefully help illustrate how seriously we take your safety, your satisfaction, and our quality of work without being too long-winded; we’re all busy people, right?
+We will always do our best to fulfill your needs and meet your goals. This contract’s purpose is to ensure we both understand the terms of our cooperation and what happens if things go wrong. This plain English contract should hopefully help illustrate how seriously we take your safety, your satisfaction, and our quality of work without being too long-winded.
 
 ### Agreement:
 
@@ -70,8 +70,6 @@ To keep the project organized and the management of it easier, we prefer not to 
 Although we test extensively, we can't guarantee that the functions contained in any application will always be error-free and so we can't be liable to you or any third party for damages, including lost profits, lost savings or other incidental, consequential or special damages arising out of the operation of or inability to operate this application and any other web pages, even if you have advised us of the possibilities of such damages.
 
 If any provision of this agreement shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable from this agreement and shall not affect the validity and enforceability of any remaining provisions.
-
-Glad that’s over with…
 
 ### Copyrights:
 
